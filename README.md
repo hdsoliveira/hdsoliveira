@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="assets/avatar.png" width="200" alt="Illustrated avatar of Hugo de Souza Oliveira" />
-
   <h1>Hugo de Souza Oliveira</h1>
   <p><strong>Postdoctoral Researcher · University of Freiburg</strong><br />
   SoftLab — Laboratory for Soft Machines</p>
