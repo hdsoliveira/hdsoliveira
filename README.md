@@ -12,11 +12,15 @@
 
 ### Mechanics, materials, and soft machines
 
-I am a postdoctoral researcher at **SoftLab, University of Freiburg**, working at the intersection of **mechanical metamaterials, soft robotics, and sensing**. My research explores how structural design, multistability, and embedded sensors can give soft systems tunable mechanical behavior and awareness of their own deformation.
+I am a postdoctoral researcher at **SoftLab, University of Freiburg**. My research focuses on developing **mechanical metamaterials** that can be integrated with soft, conformable, and flexible electronics and sensors.
 
-| Mechanical metamaterials | Soft robotics | Integrated sensing |
+I am particularly interested in the **design and manufacturing of compliant and soft robots** that can interact with their environment safely, efficiently, and with agility across different scales.
+
+Another goal of my research is to develop **physical intelligence** through multifunctional materials and structures with distributed actuation, sensing, control, and energy.
+
+| Mechanical metamaterials | Compliant & soft robotics | Physical intelligence |
 | :--- | :--- | :--- |
-| Multistability and tunable stiffness through structural design. | Origami-inspired structures and compliant robotic systems. | Soft capacitive sensors for proprioception in deformable machines. |
+| Functional structures integrated with soft, conformable, and flexible electronics and sensors. | Designing and manufacturing robots for safe, efficient, and agile interaction across scales. | Multifunctional materials and structures with distributed actuation, sensing, control, and energy. |
 
 ### Selected research
 
