@@ -13,4 +13,12 @@
 
 - 🔬 **Now:** postdoctoral researcher at the **University of Freiburg**, working on mechanical metamaterials and soft structures.
 - 🎓 **Next:** from **November 2026**, **Marie Skłodowska-Curie (MSCA) Fellow** at the **University of Oxford**.
-- 💬 **Ask me about:** multistability, programmable stiffness, and structures that sense their own shape.
+
+### 🧩 What I'm curious about
+
+`soft structures` · `soft robots` · `mechanical metamaterials` · `nonlinear dynamics` · `shape memory alloys`
+
+### 🐧 Off the clock
+
+I tinker with Linux, and I write the scripts and programs I wish already existed: small tools that
+take the friction out of research, so there is more time left for figuring out how things work.
