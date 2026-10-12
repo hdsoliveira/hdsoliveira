@@ -12,7 +12,7 @@
 ---
 
 -  **Now:** postdoctoral researcher at the **University of Freiburg**, working on mechanical metamaterials and soft structures.
-- 🎓 **Next:** from **November 2026**, **Marie Skłodowska-Curie (MSCA) Fellow** at the **University of Oxford**.
+-  **Next:** from **November 2026**, **Marie Skłodowska-Curie (MSCA) Fellow** at the **University of Oxford**.
 
 ###  What I'm curious about
 
